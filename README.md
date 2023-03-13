@@ -1,1 +1,1 @@
-# Kodlama.io-Selenium
+# Kodlama.io-Selenium icin olusturulmustur.
